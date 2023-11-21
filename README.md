@@ -4,7 +4,7 @@ This GitHub user is no longer in use except for business purpouses.
 ## Please use this instead
 
 ```bash
-git clone ssh://git@nodemixaholic.com:69/repoNameHere.git
+git clone git@nodemixaholic.com/repoNameHere.git
 ```
 
 pass: ```imnorobot```
