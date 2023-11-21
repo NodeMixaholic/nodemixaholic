@@ -9,6 +9,6 @@ git clone ssh://git@nodemixaholic.com:69/repoNameHere.git
 
 pass: ```imnorobot```
 
-You can find a limited shell at: ```ssh git@nodemixaholic.com -p 69```
+You can find a limited shell here to list contents: ```ssh git@nodemixaholic.com -p 69```
 
 Use similar creds.
