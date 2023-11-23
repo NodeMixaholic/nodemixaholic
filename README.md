@@ -4,7 +4,7 @@ This GitHub user is no longer in use except for business purpouses.
 ## Please use this instead
 
 ```bash
-git clone git://nodemixaholic.com/repoName.git
+git clone http://nodemixaholic.com/git/repoName.git
 ```
 
 Replace repoName with listed repo name.
